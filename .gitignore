@@ -1,0 +1,10 @@
+# Ignore non-website files
+Propuesta_Moncada_y_Pedrals.pdf
+propuesta_con_imagenes.html
+propuesta_template.html
+propuesta_texto_limpio.md
+generar_pdf.ps1
+generar_pdf.py
+embed_imgs.ps1
+error.log
+.agent/
